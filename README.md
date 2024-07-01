@@ -1,4 +1,4 @@
-# Build Recovery using Github Actions
+# Build Recovery using Github Actions For Sky
 
 - Support OrangeFox Recovery 
 
@@ -8,21 +8,6 @@
 - All contributors
 
 ---
-
-## Parameter Description
-
-| Name | Description | Example |
-| ------------ | -------------------- | ------------ |
-| `SYNC_URL` | Script specified by OrangeFox | https://gitlab.com/OrangeFox/sync.git |
-| `MANIFEST_BRANCH` | Source branch | 12.1                                                         |
-| `DEVICE_TREE_URL` | Device address | https://github.com/OrangeFoxRecovery/device_xiaomi_laurel_sprout |
-| `DEVICE_TREE_BRANCH` | Device branch | fox_12.1 |
-| `DEVICE_PATH` | Device location | device/xiaomi/laurel_sprout |
-| `DEVICE_NAME` | Model name | laurel_sprout |
-| `MAKEFILE_NAME` | Makefile name | twrp_laurel_sprout |
-| `BUILD_TARGET` | Build Target Partition (boot/recovery/vendorboot) | recovery |
-
------
 
 ## How to use
 ```
