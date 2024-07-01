@@ -24,7 +24,7 @@ on:
         required: true
         default: 'device/xiaomi/sky'
       NOTE:
-        description: 'If any'
+        description: 'NOTE'
         required: false
       DEVICE_NAME:
         description: 'DEVICE_NAME'
