@@ -18,8 +18,6 @@
 | `DEVICE_TREE_URL` | Device address | https://github.com/OrangeFoxRecovery/device_xiaomi_laurel_sprout |
 | `DEVICE_TREE_BRANCH` | Device branch | fox_12.1 |
 | `DEVICE_PATH` | Device location | device/xiaomi/laurel_sprout |
-| `COMMON_TREE_URL` | Common tree address |  |
-| `COMMON_PATH` | Common tree location |  |
 | `DEVICE_NAME` | Model name | laurel_sprout |
 | `MAKEFILE_NAME` | Makefile name | twrp_laurel_sprout |
 | `BUILD_TARGET` | Build Target Partition (boot/recovery/vendorboot) | recovery |
@@ -48,4 +46,3 @@ For example, your username is: JohnSmith
 ## Compilation results
 Can be downloaded at [Release](../../releases)
 
-File not being uploaded to Release? Please check the step 'Check the output directory before uploading' and check the file name
