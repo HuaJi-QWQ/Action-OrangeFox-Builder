@@ -4,17 +4,12 @@
 
 ---
 
-## Thanks to
-- All contributors
-
----
-
 ## How to use
 - Fork this repo 
 - click on action
 - click on All workflows
 - click on fox
-- click ok run workflow
+- click on run workflow
 
 
 ## Compilation results
