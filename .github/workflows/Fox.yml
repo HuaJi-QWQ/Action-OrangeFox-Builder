@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/ADITHY4N/recovery_device_xiaomi_sky'
+        default: 'https://github.com/HuaJi-QWQ/recovery_device_xiaomi_sky'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
